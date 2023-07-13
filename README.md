@@ -2,6 +2,6 @@
 
 # zalky
 
-This is temporary one-off profile for special access to Scarlet repositories.
+This is temporary one-off profile for special access to Scarlet repositories. My main profile, along with all my OSS projects can be found here: 
 
-My main profile, along with all my OSS projects can be found here: https://github.com/zalky
+https://github.com/zalky
